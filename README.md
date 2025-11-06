@@ -5,6 +5,10 @@ Incluye indicadores clave, análisis mensual, trimestral y segmentación por tip
 
 ---
 
+## 🖼️ Vista previa del Dashboard
+![Dashboard de Ventas 2023](./Dashboard.png)
+
+---
 ## 🎯 Objetivo
 El objetivo principal es **visualizar el comportamiento de las ventas** y detectar patrones relevantes que ayuden en la toma de decisiones comerciales, como los productos más rentables, los mejores clientes y la evolución temporal de las ventas.
 
